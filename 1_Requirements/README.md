@@ -1,7 +1,7 @@
 # Requirements
 ## Introduction
 In this project, I am building the tic tac toe game, which is different from a traditional one. This is a two-player game.
-I am pretty sure you will love it
+I am pretty sure you will enjoy it
 
 ## SWOT ANALYSIS
 ### Strength
