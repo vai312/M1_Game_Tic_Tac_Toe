@@ -1,6 +1,6 @@
 # Requirements
 ## Introduction
-In this project, I am trying to build the tic tac toe game, which is different than a traditional one. This is a two-player game, It has an easy and medium level.
+In this project, I am trying to build the tic tac toe game, which is different from a traditional one. This is a two-player game, It has an easy and medium level.
 I am pretty sure you will love it
 
 ## SWOT ANALYSIS
