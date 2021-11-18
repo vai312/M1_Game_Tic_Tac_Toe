@@ -34,3 +34,16 @@ I am pretty sure you will love it
 
 ## How:
 1. By taking different command by player game can run.
+
+# Detail requirements
+## High Level Requirements:
+ ID | Description | Status 
+----|  ---------- | -----
+HR_1 | It should take input from players |
+HR_2 | It should show which player won and which player loses |
+
+## Low level Requirements:
+ ID | Description | Status 
+----|  ---------- | -----
+LR_1 | It should show error if user give too many inputes |
+LR_2 | After completion of game it should show screen for new game or exit |
