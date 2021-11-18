@@ -1,7 +1,7 @@
 # Requirements
 ## Introduction
 In this project, I am building the tic tac toe game, which is different from a traditional one. This is a two-player game.
-I am pretty sure you will enjoy it
+I am pretty sure you will enjoy it.
 
 ## SWOT ANALYSIS
 ### Strength
@@ -45,5 +45,5 @@ HR_2 | It should show which player won and which player loses |
 ## Low level Requirements:
  ID | Description | Status 
 ----|  ---------- | -----
-LR_1 | It should show error if user give too many inputes |
+LR_1 | It should show error if user give too many inputs |
 LR_2 | After completion of game it should show screen for new game or exit |
