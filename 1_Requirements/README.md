@@ -26,7 +26,7 @@ I am pretty sure you will enjoy it
 
 ## When:
 1. You can play in any state of mind.
-2. When you are feeling boring.
+2. When you are feeling bored.
 
 ## Why:
 1. This game is created for a fun.
