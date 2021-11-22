@@ -48,8 +48,7 @@ The main objectives of this project are:
 HR_1 | It should take input from players |
 HR_2 | It should show which player won  |
 HR_3 | It should show game is draw |
-HR_4 | It should show invalid input if the player put an invalid move
- |
+HR_4 | It should show invalid input if the player put an invalid move |
 HR_5 | It should show updated board of tic tac toe each time |
 
 ## Low level Requirements:
