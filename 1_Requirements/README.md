@@ -1,17 +1,23 @@
 # Requirements
 ## Introduction
-In this project, I am building the tic tac toe game, which is different from a traditional one. This is a two-player game.
+Tic-tac-toe, noughts, and crosses, or Xs and Os is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
+In this project, I am building the tic tac toe game, which is different from a traditional one it has a four-by-four grid. This is a two-player game.
 I am pretty sure you will enjoy it.
+## Objective
+The main objectives of this project are:
+
+1. Tic-Tac-Toe Game, Here the user can decide to play with the computer(single player mode) or with other user(double player mode) .
+2. This game displays wheather the player won the game or it is draw.
 
 ## SWOT ANALYSIS
 ### Strength
 1. It is for all age groups.
 2. It has a different format than a traditional game.
-3. It has a sound for each different event of moves.
+
 
 ### Weakness
 1. Not have high-level graphics.
-2. Not have a good soundtrack.
+2. Not have a soundtrack.
 ### Opportunities
 1. Graphics can be implemented in the future.
 ### Threats
@@ -40,7 +46,11 @@ I am pretty sure you will enjoy it.
  ID | Description | Status 
 ----|  ---------- | -----
 HR_1 | It should take input from players |
-HR_2 | It should show which player won and which player loses |
+HR_2 | It should show which player won  |
+HR_3 | It should show game is draw |
+HR_4 | It should show invalid input if the player put an invalid move
+ |
+HR_5 | It should show updated board of tic tac toe each time |
 
 ## Low level Requirements:
  ID | Description | Status 
