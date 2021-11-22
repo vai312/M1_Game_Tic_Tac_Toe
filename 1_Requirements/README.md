@@ -5,9 +5,17 @@ In this project, I am building the tic tac toe game, which is different from a t
 I am pretty sure you will enjoy it.
 ## Objective
 The main objectives of this project are:
-
 1. Tic-Tac-Toe Game, Here the user can decide to play with the computer(single player mode) or with other user(double player mode) .
 2. This game displays wheather the player won the game or it is draw.
+## Cost and Timeline
+This game will work on any device which has a C compiler. The game is freely available on market.
+Earlier this game is a paper-and-pencil game for two players later on OXO became one of the first known video games that pit human players up against a computer opponent capable of playing perfect games.
+
+### Features
+1. The game is played on a 4x4 grid.
+2. First player is 'X' and second player is 'O'. Players take turns putting their marks in empty squares.
+3. The first player to get 4 of her marks in a row (up, down, across, or diagonally) is the winner.
+4. When all 16 squares are full, the game is over. If no player has 4 marks in a row, the game ends in a tie.
 
 ## SWOT ANALYSIS
 ### Strength
@@ -45,14 +53,16 @@ The main objectives of this project are:
 ## High Level Requirements:
  ID | Description | Status 
 ----|  ---------- | -----
-HR_1 | It should take input from players |
-HR_2 | It should show which player won  |
-HR_3 | It should show game is draw |
-HR_4 | It should show invalid input if the player put an invalid move |
-HR_5 | It should show updated board of tic tac toe each time |
-
+HR_1 | It will take input from players |
+HR_2 | It will show which player won  |
+HR_3 | It will show game is draw |
+HR_4 | It will show invalid input if the player puts an invalid move |
+HR_5 | It will show  the updated board of tic tac toe on each move |
+HR_6 | It should make a sound on each move |
 ## Low level Requirements:
  ID | Description | Status 
 ----|  ---------- | -----
-LR_1 | It should show error if user give too many inputs |
-LR_2 | After completion of game it should show screen for new game or exit |
+LR_1 | The first player will start with 'X' |
+LR_2 | The second player will start with 'O' |
+LR_3 | Each player will have one input at a time |
+LR_4 | If the user gets 4 'X' or 4 'O', in vertical,horizontal or diagonal row, he'll win |
