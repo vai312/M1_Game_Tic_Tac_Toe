@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-//#include <conio.h>
+#include <conio.h>
 
 
 char square[17] = { '\0', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i' , 'j', 'k', 'l', 'm', 'n', 'y', 'z'};
@@ -139,9 +139,7 @@ int checkwin()
 }
  
  
-/*******************************************************************
-FUNCTION TO DRAW BOARD OF TIC TAC TOE WITH PLAYERS MARK
-********************************************************************/
+
  
  
 void board()
