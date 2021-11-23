@@ -19,13 +19,13 @@ H_12  |  The player press enter without giveing input   |    |  invalid move  | 
 Test ID  |	Description	| Exp I/P | Exp O/P | 	Actual Out | Type Of Test
 -------  |  ---------   |  ------ |  -----  |  ---------   |  ------ 
 L_01  | First row is 4 X  | X X X X |  Player 1 win   |  Player 1 win  |  Requirement based
-L_01  | First column is 4 X  | X X X X |  Player 1 win   |  Player 1 win  |  Requirement based
-L_01  | Third row is 4 O  | O O O O |  Player 2 win   |  Player 2 win  |  Requirement based
-L_01  | Second column is 4 O | O O O O  |  Player 2 win   |  Player 2 win  |  Requirement based
-L_02  | Diagonal is 4 O  | O O O O |  Player 2 win  |  Player 2 win   | Requirement based
-L_02  | Diagonal is 4 X  | X X X X |  Player 1 win  |  Player 1 win   | REquirement based
-L_02  | Chek if not 4 X  | X O X X | Game draw |  Game draw   | Scenario based
-L_02  | Chek if not 4 O  | O X O O | Game draw | Game draw | Scenario based
+L_02  | First column is 4 X  | X X X X |  Player 1 win   |  Player 1 win  |  Requirement based
+L_03  | Third row is 4 O  | O O O O |  Player 2 win   |  Player 2 win  |  Requirement based
+L_04  | Second column is 4 O | O O O O  |  Player 2 win   |  Player 2 win  |  Requirement based
+L_05  | Diagonal is 4 O  | O O O O |  Player 2 win  |  Player 2 win   | Requirement based
+L_06  | Diagonal is 4 X  | X X X X |  Player 1 win  |  Player 1 win   | REquirement based
+L_07  | Chek if not 4 X  | X O X X | Game draw |  Game draw   | Scenario based
+L_08  | Chek if not 4 O  | O X O O | Game draw | Game draw | Scenario based
 
 
 
