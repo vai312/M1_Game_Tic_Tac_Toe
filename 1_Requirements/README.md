@@ -60,16 +60,16 @@ Earlier this game is a paper-and-pencil game for two players later on OXO became
 ## High Level Requirements:
  ID | Description | Status 
 ----|  ---------- | -----
-HR_1 | It will take input from players |
-HR_2 | It will show which player won  |
-HR_3 | It will show game is draw |
-HR_4 | It will show invalid input if the player puts an invalid move |
-HR_5 | It will show  the updated board of tic tac toe on each move |
-HR_6 | It should make a sound on each move |
+HR_1 | It will take input from players | Sucess
+HR_2 | It will show which player won  | Sucess
+HR_3 | It will show game is draw | Sucess
+HR_4 | It will show invalid input if the player puts an invalid move | Sucess
+HR_5 | It will show the updated board of tic tac toe on each move | Sucess
+HR_6 | It should make a sound on each move | Future
 ## Low level Requirements:
  ID | Description | Status 
 ----|  ---------- | -----
-LR_1 | The first player will start with 'X' |
-LR_2 | The second player will start with 'O' |
-LR_3 | Each player will have one input at a time |
-LR_4 | If the user gets 4 'X' or 4 'O', in vertical,horizontal or diagonal row, he'll win |
+LR_1 | The first player will start with 'X' | Sucess
+LR_2 | The second player will start with 'O' | Sucess
+LR_3 | Each player will have one input at a time | Sucess
+LR_4 | If the user gets 4 'X' or 4 'O', in vertical,horizontal or diagonal row, he'll win | Sucess
