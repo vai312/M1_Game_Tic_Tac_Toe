@@ -3,6 +3,14 @@
 Tic-tac-toe, noughts, and crosses, or Xs and Os is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
 In this project, I am building the tic tac toe game, which is different from a traditional one it has a four-by-four grid. This is a two-player game.
 I am pretty sure you will enjoy it.
+## Research
+
+![History off tic tac toe](https://aurosi.com/wp-content/uploads/2019/07/AdobeStock_204761328-1024x519.jpg)
+The most ancient board games still played today is tic tac toe. This is probably because it’s so simple that you don’t even need a board to play! But even with all its simplicity, the history of tic tac toe is more rich and surprising than you’d think.
+Tic taco toe’s history started with the Romans, but their version was, admittedly, much more difficult than the one we know today. Each player used 3 pebbles, and so had to move them around on each turn. Tic tac toe’s markings have been found etched all over Rome. 
+In the mid-1800s, Britain used the name noughts and crosses, with nought referring to the O’s (or zeros) used in the game. The United States officially adopted the name tic tac toe in the 20th century. Historians aren’t completely clear about the origin of the game’s name, but it could be referring to the noise of repetitive ticking or writing that goes along with the game’s play.
+
+ 
 ## Objective
 The main objectives of this project are:
 1. Tic-Tac-Toe Game, Here the user can decide to play with the computer(single player mode) or with other user(double player mode) .
