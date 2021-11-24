@@ -1,4 +1,7 @@
 # M1_Game_Tic_Tac_Toe
+## Summary
+In this project, I am building the tic tac toe game, which is different from a traditional one it has a four-by-four grid. This is a two-player game. I am pretty sure you will enjoy it.
+![](https://github.com/vai312/M1_Game_Tic_Tac_Toe/blob/main/5_videos/Game%20preview.webm)
 
    Code Quality (using code-inspector)| Unity Testing | CPP Check | Build Windows | Build CI | Git Inspector 
    ------------------------------  | -------------  | -------   | -----------   | -------  | -----------     
