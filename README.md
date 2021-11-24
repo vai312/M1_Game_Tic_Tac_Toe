@@ -5,3 +5,4 @@
 [![Unit Testing - Unity](https://github.com/vai312/M1_Game_Tic_Tac_Toe/actions/workflows/unity.yml/badge.svg)](https://github.com/vai312/M1_Game_Tic_Tac_Toe/actions/workflows/unity.yml)
 [![.github/workflows/git_inspector.yml](https://github.com/vai312/M1_Game_Tic_Tac_Toe/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/vai312/M1_Game_Tic_Tac_Toe/actions/workflows/git_inspector.yml)
 [![Linux C/C++ Build CI](https://github.com/vai312/M1_Game_Tic_Tac_Toe/actions/workflows/c_build.yml/badge.svg)](https://github.com/vai312/M1_Game_Tic_Tac_Toe/actions/workflows/c_build.yml)
+[![Build Windows](https://github.com/vai312/M1_Game_Tic_Tac_Toe/actions/workflows/build_windows.yml/badge.svg)](https://github.com/vai312/M1_Game_Tic_Tac_Toe/actions/workflows/build_windows.yml)
