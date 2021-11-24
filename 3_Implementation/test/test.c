@@ -21,20 +21,20 @@ void test_successfullWin()
                         'X','O','O','O',
                         'X','X','X','O',
                         'O','O','O','X'};
-     TEST_ASSERT_EQUAL(1, checkwin(arr));
+     TEST_ASSERT_EQUAL(1, check_if_win(array));
 }
 void test_successfuldraw()
 {
-    char arr[10]={'0',  'X','O','X','X',
+    char array[17]={'0',  'X','O','X','X',
                         'X','O','O','O',
                         'X','X','X','O',
                         'O','O','O','X'};
-    TEST_ASSERT_EQUAL(0,checkwin(arr));
+    TEST_ASSERT_EQUAL(0,check_if_win(array));
 }
 void test_Emptyboard()
 {
-    char arr[10]={ '\0', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i' , 'j', 'k', 'l', 'm', 'n', 'y', 'z'};
-    TEST_ASSERT_EQUAL(-1,checkwin(arr));
+    char array[17]={ '\0', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i' , 'j', 'k', 'l', 'm', 'n', 'y', 'z'};
+    TEST_ASSERT_EQUAL(-1,check_if_win(array));
 }
 int main()
 {
