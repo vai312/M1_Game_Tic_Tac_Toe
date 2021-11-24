@@ -9,40 +9,40 @@ Tic taco toe’s history started with the Romans, but their version was, admitte
 In the mid-1800s, Britain used the name noughts and crosses, with nought referring to the O’s (or zeros) used in the game. The United States officially adopted the name tic tac toe in the 20th century. Historians aren’t completely clear about the origin of the game’s name, but it could be referring to the noise of repetitive ticking or writing that goes along with the game’s play.
 ## Objective
 The main objectives of this project are:
-1 Tic-Tac-Toe Game, Here the user can decide to play with the computer(single player mode) or with other user(double player mode) .
-2 This game displays wheather the player won the game or it is draw.
+1. Tic-Tac-Toe Game, Here the user can decide to play with the computer(single player mode) or with other user(double player mode) .
+2. This game displays wheather the player won the game or it is draw.
 ## Cost and Timeline
 This game will work on any device which has a C compiler. The game is freely available on market.
 Earlier this game is a paper-and-pencil game for two players later on OXO became one of the first known video games that pit human players up against a computer opponent capable of playing perfect games.
 ### Features
-1 The game is played on a 4x4 grid.
-2 First player is 'X' and second player is 'O'. Players take turns putting their marks in empty squares.
-3 The first player to get 4 of her marks in a row (up, down, across, or diagonally) is the winner.
-4 When all 16 squares are full, the game is over. If no player has 4 marks in a row, the game ends in a tie.
+1. The game is played on a 4x4 grid.
+2. First player is 'X' and second player is 'O'. Players take turns putting their marks in empty squares.
+3. The first player to get 4 of her marks in a row (up, down, across, or diagonally) is the winner.
+4. When all 16 squares are full, the game is over. If no player has 4 marks in a row, the game ends in a tie.
 ## SWOT ANALYSIS
 ### Strength
-1 It is for all age groups.
-2 It has a different format than a traditional game.
+1. It is for all age groups.
+2. It has a different format than a traditional game.
 ### Weakness
-1 Not have high-level graphics.
-2 Not have a soundtrack.
+1. Not have high-level graphics.
+2. Not have a soundtrack.
 ### Opportunities
-1 Graphics can be implemented in the future.
+1. Graphics can be implemented in the future.
 ### Threats
-1 More entertaining games with high graphics and with good sound quality are already available in the market.
+1. More entertaining games with high graphics and with good sound quality are already available in the market.
 # 4W's and 1'H
 ## Who:
-1 It can be played by people of different age groups.
+1. It can be played by people of different age groups.
 ## Where:
 1. You can play it from any device which has a C compiler.
 ## When:
-1 You can play in any state of mind.
-2 When you are feeling bored.
+1. You can play in any state of mind.
+2. When you are feeling bored.
 ## Why:
-1 This game is created for a fun.
-2 For bringing the thought into reality.
+1. This game is created for a fun.
+2. For bringing the thought into reality.
 ## How:
-1 By taking different command by player game can run.
+1. By taking different command by player game can run.
 # Detail requirements
 ## High Level Requirements:
  ID | Description | Status 
