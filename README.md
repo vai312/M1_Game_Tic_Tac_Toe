@@ -3,3 +3,4 @@
 ![](https://api.codiga.io/project/29925/status/svg)
 [![cppcheck-action](https://github.com/vai312/M1_Game_Tic_Tac_Toe/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/vai312/M1_Game_Tic_Tac_Toe/actions/workflows/cppcheck.yml)
 [![Unit Testing - Unity](https://github.com/vai312/M1_Game_Tic_Tac_Toe/actions/workflows/unity.yml/badge.svg)](https://github.com/vai312/M1_Game_Tic_Tac_Toe/actions/workflows/unity.yml)
+[![.github/workflows/git_inspector.yml](https://github.com/vai312/M1_Game_Tic_Tac_Toe/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/vai312/M1_Game_Tic_Tac_Toe/actions/workflows/git_inspector.yml)
