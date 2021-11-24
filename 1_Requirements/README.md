@@ -30,21 +30,21 @@ Earlier this game is a paper-and-pencil game for two players later on OXO became
 1. Graphics can be implemented in the future.
 ### Threats
 1. More entertaining games with high graphics and with good sound quality are already available in the market.
-# 4W's and 1'H
-## Who:
+## 4W's and 1'H
+### Who:
 1. It can be played by people of different age groups.
-## Where:
+### Where:
 1. You can play it from any device which has a C compiler.
-## When:
+### When:
 1. You can play in any state of mind.
 2. When you are feeling bored.
-## Why:
+### Why:
 1. This game is created for a fun.
 2. For bringing the thought into reality.
-## How:
+### How:
 1. By taking different command by player game can run.
-# Detail requirements
-## High Level Requirements:
+## Detail requirements
+### High Level Requirements:
  ID | Description | Status 
 ----|  ---------- | -----
 HR_1 | It will take input from players | Sucess
@@ -53,7 +53,7 @@ HR_3 | It will show game is draw | Sucess
 HR_4 | It will show invalid input if the player puts an invalid move | Sucess
 HR_5 | It will show the updated board of tic tac toe on each move | Sucess
 HR_6 | It should make a sound on each move | Future
-## Low level Requirements:
+### Low level Requirements:
  ID | Description | Status 
 ----|  ---------- | -----
 LR_1 | The first player will start with 'X' | Sucess
