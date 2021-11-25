@@ -28,6 +28,14 @@ L_07  | Check if not 4 X  | X O X X | Game draw |  Game draw   | Scenario based
 L_08  | Check if not 4 O  | O X O O | Game draw | Game draw | Scenario based
 
 ## Output
+### Game Draw
+![](https://github.com/vai312/M1_Game_Tic_Tac_Toe/blob/main/4_TestPlan/Output/Game%20Draw.png)
+### Invalid Move
+![](https://github.com/vai312/M1_Game_Tic_Tac_Toe/blob/main/4_TestPlan/Output/Invalid%20move.png)
+### Player 1 Win
+![](https://github.com/vai312/M1_Game_Tic_Tac_Toe/blob/main/4_TestPlan/Output/player%201%20win.png)
+### Player 2 Win
+![](https://github.com/vai312/M1_Game_Tic_Tac_Toe/blob/main/4_TestPlan/Output/player%201%20win.png)
 
 
 
