@@ -35,7 +35,7 @@ L_08  | Check if not 4 O  | O X O O | Game draw | Game draw | Scenario based
 ### Player 1 Win
 ![](https://github.com/vai312/M1_Game_Tic_Tac_Toe/blob/main/4_TestPlan/Output/player%201%20win.png)
 ### Player 2 Win
-![](https://github.com/vai312/M1_Game_Tic_Tac_Toe/blob/main/4_TestPlan/Output/player%201%20win.png)
+![](https://github.com/vai312/M1_Game_Tic_Tac_Toe/blob/main/4_TestPlan/Output/player%202%20win.png?raw=true)
 
 
 
