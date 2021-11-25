@@ -1,4 +1,4 @@
-# TEST PLANE
+# TEST PLANE AND OUTPUT
 ## Table no: High level test plan
 Test ID  |	Description	| Exp I/P | Exp O/P | 	Actual Out | Type Of Test
 -------  |  ---------   |  ------ |  -----  |  ---------   |  ------ 
@@ -27,7 +27,7 @@ L_06  | Diagonal is 4 X  | X X X X |  Player 1 win  |  Player 1 win   | REquirem
 L_07  | Check if not 4 X  | X O X X | Game draw |  Game draw   | Scenario based
 L_08  | Check if not 4 O  | O X O O | Game draw | Game draw | Scenario based
 
-
+## Output
 
 
 
